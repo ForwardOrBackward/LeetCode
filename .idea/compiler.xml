@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_57_-_i_i_HeWeiSdeLianXuZhengShuXuLieLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_32_-_i_i_CongShangDaoXiaDaYinErChaShuIiLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_55_-_i_ErChaShuDeShenDuLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_24_FanZhuanLianBiaoLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_28_DuiChengDeErChaShuLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_40_ZuiXiaoDeKgeShuLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_42_LianXuZiShuZuDeZuiDaHeLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_52_LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_32_-_i_CongShangDaoXiaDaYinErChaShuLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_32_-_i_i_i_CongShangDaoXiaDaYinErChaShuIiiLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_55_-_i_i_PingHengErChaShuLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_56_-_i_i_ShuZuZhongShuZiChuXianDeCiShuIiLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_56_-_i_ShuZuZhongShuZiChuXianDeCiShuLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_58_-_i_i_ZuoXuanZhuanZiFuChuanLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_59_-_i_HuaDongChuangKouDeZuiDaZhiLcof.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P89_GrayCode.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P232_ImplementQueueUsingStacks.java" />
+      <file url="file://$PROJECT_DIR$/src/leetcode/editor/cn/P剑指_offer_61_BuKePaiZhongDeShunZiLcof.java" />
+    </excludeFromCompile>
+  </component>
+</project>
